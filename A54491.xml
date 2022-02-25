@@ -1,0 +1,516 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations on the venereal disease with the true way of curing the same / by Charles Peter.</title>
+            <author>Peter, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54491</idno>
+            <idno type="STC">Wing P1684</idno>
+            <idno type="STC">ESTC R29390</idno>
+            <idno type="EEBO-CITATION">11081348</idno>
+            <idno type="OCLC">ocm 11081348</idno>
+            <idno type="VID">46321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1428:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations on the venereal disease with the true way of curing the same / by Charles Peter.</title>
+                  <author>Peter, Charles.</author>
+               </titleStmt>
+               <extent>[7], 76 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet and are to be sold by the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686?</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sexually transmitted diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46321:1" rendition="simple:additions"/>
+            <p>OBSERVATIONS ON THE Venereal Diſeaſe, With the True way Of Curing the Same.</p>
+            <p>By <hi>CHARLES PETER</hi> Chyrurgeon.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> non nobis nati Sumus.</hi>
+            </p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>London</hi> Printed by <hi>D. Mallet,</hi> and are to be Sold by the Author, at his Bathing-Houſe in St. <hi>Martins-Lane</hi> near
+<hi>Long-Acre,</hi> 1686.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:46321:2"/>
+            <pb facs="tcp:46321:2"/>
+            <head>THE PREFACE,</head>
+            <p>THere will be ſome Readers that are Strangers to me, and it may be not amiſs to inform them, that in my juve<g ref="char:EOLhyphen"/>nile years; my inclinations led me to Chirurgery, in which I took ſo great de<g ref="char:EOLhyphen"/>light, that I never thought my ſelf ſo happy, as when I was a Spectator of ſome or other Chyrurgical Operation, in pur<g ref="char:EOLhyphen"/>ſuance of what I ſo much delighted in; I was put Apprentice to a Maſter of Ana<g ref="char:EOLhyphen"/>tomy, by reaſon of which, I was always preſent at Diſſections, both publick and private, at which tis hard for me to ſay, whether I took more Pains or Pleaſure. Having thus laid a Foundation in order <pb facs="tcp:46321:3"/>to attaining to the Art of Chirurgery, and having ſeveral years ſeen many very good manuall Operations, performed in and about the City of <hi>London</hi> and elſewhere, I was ſent in Company of ſeveral Emi<g ref="char:EOLhyphen"/>nent Chyrurgeons, to Dreſs the wounded Men in the Hoſpitals of <hi>Harwich</hi> and <hi>Ipſwich,</hi> where much pains I took du<g ref="char:EOLhyphen"/>ring the time of the War, between us and the <hi>Dutch,</hi> Anno.
+<hi>1665.</hi> Retur<g ref="char:EOLhyphen"/>ning to <hi>London,</hi> the Plague ſoon grew to a great height; I ſtayed in Town and had much buſineſs, and great ſucceſs in Curing of it. The great Fire of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hapned ſoon after, and my Appren<g ref="char:EOLhyphen"/>ticeſhip being expired, I applied my ſelf to my Study, reading the beſt of Au<g ref="char:EOLhyphen"/>thors I could meet with; I likewiſe in<g ref="char:EOLhyphen"/>deavoured to read Men as well as Books, and therefore ſought out the moſt ingeni<g ref="char:EOLhyphen"/>cus practicers of Phyſick and Chyrurgery, with whome I daily Converſed, making daily Obſervations of my own and other Mens Practices; I ever had (ſince I firſt <pb facs="tcp:46321:3"/>fancied the medicinal way,) an earneſt deſire to the true knowledge of the Vene<g ref="char:EOLhyphen"/>real Diſeaſe; I have by the Diſſecting of many Bodies, obſerved the nature and variety of the Diſtemper, and have been moſt curious in obſerving the accidents that many times attend the Diſeaſe, the different operations that I have obſer<g ref="char:EOLhyphen"/>ved in Medicines, made me firſt take the trouble, and be at the charge of pre<g ref="char:EOLhyphen"/>paring ſeveral, and the profit, beſides my own ſatisfaction, hath made me con<g ref="char:EOLhyphen"/>tinue my Labours, and tis well known, with how great pains and care I have at<g ref="char:EOLhyphen"/>tained to the knowledge, of preparing ſuch excellent Medicines as my Antive<g ref="char:EOLhyphen"/>nereal Pill, <hi>&amp;c.</hi> Beſides no ſmall charge in my ordering thoſe various ways of Sweating and Bathing, with which, per<g ref="char:EOLhyphen"/>ſons are accomodated at my Houſe; I am the firſt <hi>Engliſh</hi> Chyrurgeon, that ever prepared Baths of all ſorts, and I thank God, I have as convenient Bathing Rooms in my Houſe, as any in <hi>England,</hi> 
+               <pb facs="tcp:46321:4"/>and I think no Man in his way, has been more laborious than my ſelf; the follow<g ref="char:EOLhyphen"/>ing Treatiſe, I am ſure contains moſt certain Truths, if thou doſt queſtion any thing therein, I ſhall be willing to ſatisfie thee.</p>
+            <closer>
+               <dateline>From my Houſe in St. <hi>Martins-Lane</hi> near Long-Acre.</dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:46321:4"/>
+            <head>The Contents.</head>
+            <list>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Chap.</hi> 1ſt. OF the Original of the <hi>Lues Venerea,</hi> and ſeveral names of it.</item>
+                     <item>
+                        <hi>Chap.</hi> 2d. The Cauſes of the <hi>Lues Ve<g ref="char:EOLhyphen"/>nerea,</hi> and ſeveral ways of infecting.</item>
+                     <item>
+                        <hi>Chap.</hi> 3d. The Signs of the <hi>Lues Ve<g ref="char:EOLhyphen"/>nerea.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 4th. The dangerous effects of the <hi>Lues Venerea.</hi>
+                     </item>
+                     <item>
+                        <hi>Chap.</hi> 5th. Of the miſcheifs cauſed by ignorant Pretenders.</item>
+                     <item>
+                        <hi>Chap.</hi> 6th. Of ſeveral ways of Curing the Pox.</item>
+                     <item>
+                        <hi>Chap.</hi> 7th. The true way of Curing the Pox.</item>
+                     <item>
+                        <hi>Chap.</hi> 8th. The true way of Curing the Gonorrhaea.</item>
+                     <item>
+                        <hi>Chap.</hi> 9th. The Concluſion.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="observations">
+            <div n="1" type="chapter">
+               <pb n="1" facs="tcp:46321:5"/>
+               <head>
+                  <hi>CHAP. I.</hi> Of the Original of the <hi>Lues Venerea,</hi> and ſeveral Names of it.</head>
+               <p>COncerning the beginning of this Diſeaſe, Authours are various, and I find that it hath had variety of names, in ſeveral times and places, but my opinion is, that the Diſeaſe is very ancient, and may challenge al<g ref="char:EOLhyphen"/>moſt as much Antiquity, as the Sin of Uncleanneſs, for the names of it, I will ſet down but theſe few; the <hi>Italians</hi> call it
+<hi>Morbus Gallicus,</hi> the <hi>French</hi> call it <hi>Scabies Hiſpanica,</hi> and <hi>Morbus Italicus,</hi> in <hi>Spain</hi> they call it
+<hi>Morbus Neapolitanus,</hi> in <hi>England</hi> we call it <hi>Morbus Gallicus,</hi> and <hi>Lues Ve<g ref="char:EOLhyphen"/>nerea,</hi> by the laſt name I intend to treat of it.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="2" facs="tcp:46321:5"/>
+               <head>
+                  <hi>CHAP. II.</hi> The Cauſes of the <hi>Lues Venerea,</hi> and ſeveral ways of Infecting.</head>
+               <p>THe cauſes of this Diſtemper are twofold, the firſt of an occult quality, being as a ſcourge laid on Mankind (by the Almighty,) to re<g ref="char:EOLhyphen"/>ſtrain our too wanton Luſts, the other is by an impure touch or contagion, eſpecially in Copulation; a Man re<g ref="char:EOLhyphen"/>ceiving of an infected Vapour, or fil<g ref="char:EOLhyphen"/>thy Sanies, into the Pores of the Skin, or into the Vrethra, as well before the ejecting of the Seed, as after, the Wo<g ref="char:EOLhyphen"/>man having either a
+<hi>Gonorrhaea,</hi> or elſe an Ulcer, or perhaps only the foul Seed of ſome infected Perſon left in her, ſome ſmall time before, which being lodged in the wrinckles of the Womb, may be drawn in by the pores of the extended Penis, ſo that tis poſ<g ref="char:EOLhyphen"/>ſible <pb n="3" facs="tcp:46321:6"/>for a Man to get this Diſeaſe, by a Woman that was never infected her ſelf, for the oleaginous moyſture that is ever in the neck of the Womb, doth many times defend it from being infected, beſides, in Women the parts being not ſo ſtrait, nor yet ſo hot, the infection is not ſo nouriſhed and fomented, as tis in men, beſides the admirable cunning that Women of the Town uſe, is not a little to be ob<g ref="char:EOLhyphen"/>ſerved.</p>
+               <p>There be many perſons that will not believe any hurt can be gotten, any other way than by Copulation with an infected perſon, but I will prove the contrary by common expe<g ref="char:EOLhyphen"/>rience, as for example.</p>
+               <p>A Gentleman about 25 years of age, having lain with a young Laſs about 19 or 20 years old, was ſo exceſſive in the uſe of Venery with her, that having kept her company three days, a violent Fever ſeized them both, with <pb n="4" facs="tcp:46321:6"/>great pains in the Back and Head, I was ſent for to let them Bloud, but when I came and had inquired into the cauſes of their Diſtemperature, I would by no means take any Bloud a<g ref="char:EOLhyphen"/>way, for the Fever being cauſed by the diminution of the Spirits, blee<g ref="char:EOLhyphen"/>ding muſt have increaſed the Fever, rather than abated it, I therefore or<g ref="char:EOLhyphen"/>dered each a Glyſter of the <hi>Decoct. Com. cum Sy Violar.</hi> and two hours after the Glyſter; an Emulſion of the cool Seeds, dulciſied with <hi>Syr. Citrini,</hi> and a little Diacodion to re<g ref="char:EOLhyphen"/>frigerate the parts and cauſe ſleep, in two or three days the Fever left them, the Woman was very well, but a <hi>Gonorrhaea</hi> attended the man, without its uſual ſymptoms, and it was carri<g ref="char:EOLhyphen"/>ed off with much eaſe, for I verily be<g ref="char:EOLhyphen"/>lieve it was cauſed only by too much forcing of the ſpermatick Veſſels, and heating of the parts, eſpecially the Proſtate Glandules; tis not impoſ<g ref="char:EOLhyphen"/>ſible
+<pb n="5" facs="tcp:46321:7"/>for this Diſeaſe to be gotten by Kiſſing, eſpecially if either party have an Ulcer in the Throat, or Ulceration in the Mouth, from which a ſlimy juice proceeding, and the Lips being moiſt<g ref="char:EOLhyphen"/>ned thereby, may very eaſily infect the other; the common Lacivious way of Kiſſing doth much adjuvate this way of infecting.</p>
+               <p>Children are very ſubject to be in<g ref="char:EOLhyphen"/>fected this way, for by reaſon the Pores of their Skin being open, and apt to attract, they are injur'd by an unwholeſome Kiſs, and they being once infected are hard to cure.</p>
+               <p>A man who had a large Ulcer in his Throat, came to me for help, (by Gods bleſſing I cured him,) his Wife lying in Childbed at the ſame time, and her Breaſts being ſore, I was call'd to give my advice, I found her in a Fever, and her Niples Ulcerated; I call'd for her Child, whom I found infected with an Ulcer in the Mouth, <pb n="6" facs="tcp:46321:7"/>preſently I declar'd them both to be infected with the Pox; I will not ſtand to determine, whether the Wo<g ref="char:EOLhyphen"/>man was infected before her delivery, and ſo the Child brought into the World with the Diſtemper; or whe<g ref="char:EOLhyphen"/>ther the Father did by kiſſing infect the Child, and ſo the malignity con<g ref="char:EOLhyphen"/>veyed to the Mother through the po<g ref="char:EOLhyphen"/>rous body of the Niples, but to make good my aſſertion, pray obſerve the event.</p>
+               <p>A Neighbour who was a Nurſe coming to viſit the Woman, whoſe Breaſts was ſore, and hearing her com<g ref="char:EOLhyphen"/>plain of the tenderneſs of her Niples, ſhe taking up the infected Child kiſſed it, and gave it her Breaſt, (ſhe being ignorant of the Diſtemper,) the Child ſucked her and infected her, inſomuch that her Lips and Breaſts broke out with ulcerous Sores; moreouer a lit<g ref="char:EOLhyphen"/>tle Girl about Eight years old, that uſed to play to the infected Child, <pb n="7" facs="tcp:46321:8"/>and often to kiſs it, was by it in<g ref="char:EOLhyphen"/>fected.</p>
+               <p>The Diſeaſe is very often got by lactation, therefore I do adviſe thoſe that put their young Children to Nurſe, to be wary in chuſing of Nur<g ref="char:EOLhyphen"/>ſes, and in like manner, Nurſes ought to be carefull what and whoſe Chil<g ref="char:EOLhyphen"/>dren they take, for the Venome is ve<g ref="char:EOLhyphen"/>ry often communicated from Nurſes to Children, and as often received by Nurſes from them, for a very ſmall matter is able to infect either, and many Families have been undone by receiving the Venome this way.</p>
+               <p>Tis not to be imagined how ma<g ref="char:EOLhyphen"/>ny Children in a year are deſtroyed in this City by this Diſtemper, though in the Weekly Bills they paſs for gri<g ref="char:EOLhyphen"/>ping of the Guts, or Worms, Rick<g ref="char:EOLhyphen"/>ets, <hi>&amp;c.</hi>
+               </p>
+               <p>Tis dangerous to Sweat in a Bed with one that hath the
+<hi>Pox,</hi> and young people are often infected this <pb n="8" facs="tcp:46321:8"/>way, but pray miſtake me not, for many will fay they have ſain with thoſe that have had it, and yet never got any hurt, which may be, for ſome Conſtitutions are ſo hardy, that they will not be eaſily infected, but any man of ſenſe muſt believe, that not only the ſweat of Pockey perſons, but the vapor which may come from them in a Bed, muſt needs be injurious, eſ<g ref="char:EOLhyphen"/>pecially having the advantage of heat to open the pores of the Body.</p>
+               <p>There be ſome Writers that do af<g ref="char:EOLhyphen"/>firm, that the breath of a Pockey per<g ref="char:EOLhyphen"/>ſon is infectious, but I think that aſ<g ref="char:EOLhyphen"/>ſertion very ridiculous, for experience doth every day confirm the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p>There is a great deal of variety in Bodies, ſome being far more eaſily in<g ref="char:EOLhyphen"/>fected than other, as ſanguine and ſlegmatick perſons, (but are more eaſily cured than Cholerick or Melan<g ref="char:EOLhyphen"/>cholly perſons are,) and many have <pb n="9" facs="tcp:46321:9" rendition="simple:additions"/>known ſeveral men to be concerned with one Woman, one ſoon after the other, and ſome to come of without being hurt, and the otehr to be dan<g ref="char:EOLhyphen"/>geroufly Peppered.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> The ſigns of the <hi>Lues Venerea.</hi>
+               </head>
+               <p>THe ſigns of this Diſtemper are various, according to the ſtrength and conſtitution of the Pati<g ref="char:EOLhyphen"/>ent, the general ſigns are theſe,
+<hi>viz.</hi> A debility of the whole body, as if wearied by much labour, (which is cauſed by the infection of the Spirits,) a ſtifneſs of the Joynts, but more eſ<g ref="char:EOLhyphen"/>pecially of the Hips and Thighs, great pulſation of the Arteries, a ſhooting pain in the Groins, pain in the Cod, itching about the root of the Yard, <pb n="10" facs="tcp:46321:9"/>ſharpneſs of Urine, and a pricking pain in erection, and flowing of yel<g ref="char:EOLhyphen"/>low ſanies from the Yard oftimes, pain in the Back and in the Head; theſe are the infallible ſigns of a
+<hi>Go<g ref="char:EOLhyphen"/>norrhaea,</hi> ſome of them hapning to one, and ſome to another, and yet I have known all of them to happen to one perſon, and at one time, ſome have other ſymptomes, as the <hi>Pre<g ref="char:EOLhyphen"/>puce</hi> and <hi>Glans,</hi> ſwelling immoderate<g ref="char:EOLhyphen"/>ly with great pain, or perhaps the <hi>Vre<g ref="char:EOLhyphen"/>thra</hi> ſtopped up with Caruncles, the <hi>Glans</hi> almoſt covered with Warts, ſometimes excoriations of the <hi>Glans,</hi> or ulcers on the <hi>Glans,</hi> or
+<hi>Prepuce</hi> or both, ſometimes <hi>Buboes</hi> do ariſe in the Groins, which if once ſuppurate and open'd handſomely, the Cure is per<g ref="char:EOLhyphen"/>formed with much eaſe, but if they are drove back into the Body, they make the Diſtemper more inveterate, ſeize the Liver and confirm a <hi>Pox.</hi>
+               </p>
+               <pb n="11" facs="tcp:46321:10"/>
+               <p>Some perſons immediately after the receiving of the infection, are taken with a giddineſs of the Head, and moſt terrible pains in the Eyes and Ears, and in moſt parts of the Body, breaking out with ſmall red Pimples, which preſently return into the Body, and a while after break out with foul Scabs, ſome moiſt and ſpreading, though more generally they are dry and hard, and very nearly repreſent the cup of an Acorn both in ſhape and colour.</p>
+               <p>Some have Ulcers on the body of the Yard, ſome in the Fundament, others have large nodes upon the Bones in ſeveral parts, theſe are moſt certain ſymptomes of the <hi>Pox.</hi>
+               </p>
+               <p>Note, that this Diſtemper doth va<g ref="char:EOLhyphen"/>ry much in its times, many times ſhew<g ref="char:EOLhyphen"/>ing it ſelf in 1, 2, or 3 days, ſometimes lying hid a Month, two or three, and ſometimes a year or more, but it ly<g ref="char:EOLhyphen"/>eth not idle, for the longer it lies hid, <pb n="12" facs="tcp:46321:10"/>the more inveterate it proves, when once it appears, and of times diſguiſed under another name; it tyraniſeth in the body to the deſtruction of the Pa<g ref="char:EOLhyphen"/>tient; I therefore adviſe all perſons that ſo ſoon as ever they find them<g ref="char:EOLhyphen"/>ſeves touched with this venomous Dart, that they ſtraightways repair to ſuch Perſons as are able to help them.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV</hi> The dangerous effects of the <hi>Lues Venerea.</hi>
+               </head>
+               <p>TO demonſtrate all the effects of this raging Diſtemper, would take up much time, therefore as breiſ<g ref="char:EOLhyphen"/>ly as poſſible, I will acquaint thee how great a Tyrant this Diſeaſe is to thoſe People, who either ſcorn to own <pb n="13" facs="tcp:46321:11"/>they have it, or thoſe who being a ſhamed to confeſs their Condition rather venture to undergoe it, that wiſely to ſeek for help; <hi>I</hi> have known ſome ſo ſordidly fooliſh, that having had Ulcers on the <hi>Penis,</hi> have ſo long ſlighted the Diſeaſe, untill the <hi>Penis</hi> hath been mortified even unto the Belly, upon which inſued immediate Death, and ſome eſcaping with their Lives, have loſt moſt part, if not all of the Members; <hi>I</hi> have known o<g ref="char:EOLhyphen"/>thers to have been almoſt eaten up by this Diſeaſe, before they have known ſo much as the name of their Malady: <hi>I</hi> have ſeen many Women with large Ulcers in the neck of the Womb, which have cauſed continual pains, by corroding of the parts, others that have been Ulcerated from the <hi>Pubes,</hi> even to the <hi>Anus,</hi> inſomuch that the
+<hi>Labia</hi> have been eaten away in ſome, and in many mortified; many have ſpongy excreſſencies on the <hi>Labia,</hi> 
+                  <pb n="14" facs="tcp:46321:11"/>with multitudes of warts round the <hi>Labia</hi> and <hi>Anus,</hi> and many have the <hi>venereal Fiſtula</hi> in <hi>Ano,</hi> which will ad<g ref="char:EOLhyphen"/>mit of no Cure, without the uſe of Antivenereal Medicines. <hi>I</hi> have known ſome who having been ſeized with a violent pain in the Head, and in all the Limbs, have fallen into a <hi>Fe<g ref="char:EOLhyphen"/>ver</hi> and Died Mad. Some have ſharp and continual pains in all the Joynts, eſpecially in the Shoulders: And
+<hi>Nodes</hi> affixed to the Bones in many parts of the Body, inſomuch that the very Bones become Rotten, for the Diſeaſe is ſo Maligne, that it will creep between the Bone and the Fleſh, and conſume both.</p>
+               <p>Theſe <hi>Nodes,</hi> are by ſome called <hi>Gummata,</hi> they are painful Swellings, and are cauſed by the <hi>Flegmatick</hi> part of the Diſeaſe, left behind in ill mana<g ref="char:EOLhyphen"/>ged Courſes of Phyſick, but in ſome they are abſolute Elevations of the Bone, the Venome having penetrated the Perioſtium.</p>
+               <pb n="15" facs="tcp:46321:12"/>
+               <p>Some have the Penis ſo ſtopped with caruncles, that they cannot make Wa<g ref="char:EOLhyphen"/>ter, ſome have the uvula and the Pa<g ref="char:EOLhyphen"/>lat of the Mouth eaten away by <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> and many you ſee who looſe their Noſes by this violent Diſeaſe, ſome have the tip of the Noſe and Noſtril eaten away ſome looſe their Eyes, and many their hearing, and ſome their Mouths drawn away, and indeed I could quote multitudes of Example of the fury of it. Oh! how intoller<g ref="char:EOLunhyphen"/>able are the Pains that many poor Wretches indure by this Diſtemper eſpecially in the Night, at which time it moſt boldly walks its rounds to af<g ref="char:EOLhyphen"/>flict poor Mortals, for indeed all Pains are worſe in the Night, than the Day, by reaſon that the exerciſing of the Bo<g ref="char:EOLhyphen"/>dy in the Day doth divert the Pain, but the Warmneſs of the Bed at Night doth ſtir up the Malignity, and the very thoughts of the Patient in the Night
+<pb n="16" facs="tcp:46321:12"/>being fixed on the object of Pain, doth make the Miſery more intollerable.</p>
+               <p>Many Years have ſome undergone the Tyranny of this Diſtemper, till at laſt it having enervated all the parts of the Body, and conſumed the Fleſh to the Bones, it ſurrenders them to the Grave, whom perhaps, had they but uſed ſuch Medicines, as had been pro<g ref="char:EOLhyphen"/>per in ſuch Caſes, they might ſoon have eradicated the Diſeaſe from their Bodys.
+'Tis not a ſmall Number, but many Thouſands, that have periſhed for want of ſuch Noble Medicines as have force to over come the Maligni<g ref="char:EOLhyphen"/>ty of this Diſeaſe.</p>
+               <p>How many <hi>Conſumptions, Catharrs, Aſtmaes,</hi> and innumerable more Diſ<g ref="char:EOLhyphen"/>eaſes proceed from nothing elſe but this Fountain,
+'tis this is the domine<g ref="char:EOLhyphen"/>ring Diſtemper of our Age; though too often it goes under the notion of ſome other Diſeaſe, though many do believe the
+<hi>Scurvey</hi> is far more pre: <pb n="17" facs="tcp:46321:13"/>vailing, which indeed is a very de<g ref="char:EOLhyphen"/>ſtructive Malady, and incident to moſt Men, for the Reliques of the <hi>Lues Ve<g ref="char:EOLhyphen"/>nerea,</hi> doth many times convert into the <hi>Scurvey</hi> and ſometimes the <hi>Dropſie,</hi> and not ſeldome into the
+<hi>Gout;</hi> and <hi>I</hi> pray obſerve this, that where ever any Di<g ref="char:EOLhyphen"/>ſtemper is complicated, with any Re<g ref="char:EOLhyphen"/>lique of the Venereal Diſeaſe, it ever proves very ſtubborn, and will not yield to ordinary means, and indeed cannot be perfectly Cured, without the uſe of good Antivenereal Medi<g ref="char:EOLhyphen"/>cines.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="18" facs="tcp:46321:13"/>
+               <head>
+                  <hi>CHAP. V.</hi> Of the Miſchiefs cauſed by ignor ant Pretenders.</head>
+               <p>THe diverſity of my Practice in this City for ſeveral years hath given me occaſion to obſerve, that ma<g ref="char:EOLhyphen"/>ny miſchiefs are daily occaſioned by impudent and ignorant Pretenders. I mean not only thoſe
+<hi>(Vagrants)</hi> who pretend to have brought ſuch ſtrange and wonderful Medicines from For<g ref="char:EOLhyphen"/>reign Parts: But many of our own Country men, who too boldly ven<g ref="char:EOLhyphen"/>ture on the Curing of Diſeaſes with<g ref="char:EOLhyphen"/>out ever knowing the Nature or Cauſes of them; nay, many times not ſo much as the Name of the Diſtem<g ref="char:EOLhyphen"/>per: Who although illiterate perſons, and never bred to the Knowledge of the Practice of Phyſick and Chyrur<g ref="char:EOLhyphen"/>gery, yet boldly fly at all, valuing a <pb n="19" facs="tcp:46321:14"/>Patients Life, no more than their own little or no Credits, moſt of them pre<g ref="char:EOLhyphen"/>tending to the Cure of this Diſeaſe, and making the moſt ſmall appearance, ſeem to be the higheſt degree of the
+<hi>Pox,</hi> eſpecially when the Patient confeſſes a guilt, they ſpeedily pro<g ref="char:EOLhyphen"/>nounce an infection, making moſt of thoſe People that go to them for ad<g ref="char:EOLhyphen"/>vice, to believe they have the <hi>Pox,</hi> al<g ref="char:EOLhyphen"/>though they are never ſo free from it, for if the Patient but propoſe this un<g ref="char:EOLhyphen"/>happy queſtion. Sir, do you not think I have the foul Diſeaſe? They then as ſuddenly reply yes, yes: Thus many a harmleſs perſon is inſnared, and by their own credulity, are cau<g ref="char:EOLhyphen"/>ſed to undergo ſuch ſtrange courſes of Phyſick, as perhaps may (and doth too often) ruin both Body and Purſe, nay the miſery of their raſhneſs ends not here, for oftimes ſuch differences between Man and Wife, are occaſion<g ref="char:EOLhyphen"/>ed by theſe Proceedings, as cauſes a <pb n="20" facs="tcp:46321:14"/>diſorder their whole life time, as for Example.</p>
+               <p>A Woman (whom I believe to be a civil perſon) going lately to one who pretended to great Judgment in U<g ref="char:EOLhyphen"/>rines (and carrying her Urine to have his advice) he plainly told her ſhe had the <hi>Pox,</hi> he looked in her Throat, and told her ſhe had an <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> there, and that in a ſhort time ſhe would looſe her Noſe; this much ſtartled the Wo<g ref="char:EOLhyphen"/>man, whereupon ſhe told him ſhe was troubled with a pain in her Head (which was all ſhe ailed, and was oc<g ref="char:EOLhyphen"/>caſioned only by obſtructions) he forth with pronounces the pain of her Head to be Venereal, telling her the <hi>Pox</hi> was in her Brain; upon this home ſhe goes, rails at her Husband, &amp; reſolves to be Cured whatever it coſt, her Husband adviſed her to come to me, which ſhe did, and deſired me to tell her what I would have to Cure her of this her (immaginary) Diſeaſe. I making ſtrict <pb n="21" facs="tcp:46321:15"/>quiry concerning the State of her Bo<g ref="char:EOLhyphen"/>dy; all I could obſerve was, that ſhe had pain in her head, which I ſuppo<g ref="char:EOLhyphen"/>ſed was occaſioned by the foulneſs of her Stomach and Obſtructions: I en<g ref="char:EOLhyphen"/>quired of her whether her pain was nocturnal or no? whether ſhe had any pains in her Shoulders, Back, Arms, Thighs, Shins, or any of her Joynts, any Breaking-out, any Nodes,
+<hi>&amp;c.</hi> in a word, I could no way find ſhe was infected; whereupon I declared ſhe was free from the <hi>Pox,</hi> ſhe was very angry, and told me ſhe had an <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> in her Throat; I then looked in her Throat and found all well, which <hi>I</hi> affirmed to her; ſhe went home much diſſatisfied, and fell into a great Me<g ref="char:EOLhyphen"/>lancholy, becauſe her Husband would not ſuffer her any more to go to the perſon who told her ſhe had the <hi>Pox.</hi> She being in this condition, her Huſ<g ref="char:EOLhyphen"/>band came to me and conſulted me, upon which, <hi>I</hi> agreed to humourher <pb n="22" facs="tcp:46321:15"/>Fancy: So <hi>I</hi> went to viſit her, ſhe com<g ref="char:EOLhyphen"/>plained much of her woful condition; <hi>I</hi> told her <hi>I</hi> had conſidered her Caſe, and that <hi>I</hi> would take care to Cure her, upon which ſhe was very chear<g ref="char:EOLhyphen"/>ful (for ſhe knew ſeveral that <hi>I</hi> had Cured of the
+<hi>Pox.</hi>) <hi>I</hi> Purged her five or ſix times with my head Pill, and gave her ſome Medicines that cleanſed her Stomack and opened her obſtructi<g ref="char:EOLhyphen"/>ons, by which means her pain in the head left her, and ſhe remains very well; being thus Cured of her imma<g ref="char:EOLhyphen"/>ginary <hi>Pox,</hi> but
+<hi>I</hi> fear a reconciliation between her and her Husband will take up a longer time; <hi>I</hi> could inſtance many more ſuch like Examples, but muſt not be too voluminous.</p>
+               <p>But to paſs by many ſuch ſort of a<g ref="char:EOLhyphen"/>buſes, let us ſuppoſe the unhappy Pa<g ref="char:EOLhyphen"/>tients to be really infected with the <hi>Pox,</hi> and ſee then what theſe <hi>Impoſters</hi> do to them, and how ſtrangely they handle them.</p>
+               <pb n="23" facs="tcp:46321:16"/>
+               <p>Here indeed the Patients condition is moſt deplorable, for as the Whore gives the <hi>Clap,</hi> here the Quack gives them the <hi>Pox,</hi> for not one <hi>Gonorrhaea</hi> in a hundred that theſe Fellows carry off as they ought: For their common cu<g ref="char:EOLhyphen"/>ſtome is, after they have adminiſtred five or ſix Purges, or perhaps not ſo many, then they uſe reſtringents, which ſtops the humour until it fouls the Blood and confirms a <hi>Pox.</hi> Others of them who ſancy not reſtringents, Purge the Patient continually with one or other violent Medicine which debilitates the Body, but perhaps never corrects the Malignity of the Diſeaſe, thus theſe ſort of perſons many times bring their Patients into incurable
+<hi>Conſumptions,</hi> and ſome they ſo ſtrange<g ref="char:EOLhyphen"/>ly inflame by their exceeding hot and ſharp Purges, that the Blood and hu<g ref="char:EOLhyphen"/>mours being made thin, and the parts ſo weak, that great inflamations often happen, and many times the ill treat<g ref="char:EOLhyphen"/>ing <pb n="24" facs="tcp:46321:16"/>of <hi>Gonorrhaea's,</hi> at the beginning makes them very difficult to be carry<g ref="char:EOLhyphen"/>ed off (although the Patient at laſt happens into the hands of an experien<g ref="char:EOLhyphen"/>ced Artiſt) great ſwelling of the Te<g ref="char:EOLhyphen"/>ſticules are often occaſioned by the barbarous uſuage of theſe unexperien<g ref="char:EOLhyphen"/>ced perſons, and their ill prepared Me<g ref="char:EOLhyphen"/>dicines, and many Examples I could quote, but time will not allow, how<g ref="char:EOLhyphen"/>ever this one I cannot but inſert. A Young Gentleman having a <hi>Gonorrhaea,</hi> had the ill Fortune to meet with a perſon who (as the Sequell will in<g ref="char:EOLhyphen"/>form you) was a more dangerous E<g ref="char:EOLhyphen"/>nemy than his Diſtemper: The Gen<g ref="char:EOLhyphen"/>tleman having made known his Diſ<g ref="char:EOLhyphen"/>eaſe, the undertaker ſoon agrees upon a Price for the Cure, in order to which he gives the Patient ſix Pills to take the next Morning, which Pills gave him near Thirty Stools, inflaming his Body very much; you the next day the poor Gentleman was ordered to <pb n="25" facs="tcp:46321:17"/>take ſix Pills more, which gave him between Thirty and Forty Stools, cau<g ref="char:EOLhyphen"/>ſing much Blood to come from him by ſtool, with moſt violent tortions of the Guts: The third day he being ve<g ref="char:EOLhyphen"/>ry ill, was adviſed to ſend for me. I went to viſit him, and found him ve<g ref="char:EOLhyphen"/>ry weak in a <hi>Fever,</hi> and often falling into Fainting-Fits, which was occaſi<g ref="char:EOLhyphen"/>oned by the expence of Spirits; his Yard was much tumified, and violent pain in making water. I declared his Caſe to be very dangerous, and adviſed to call in ſome able Phyſician, for I was unwilling to take him in hand be<g ref="char:EOLhyphen"/>fore I had conſulred with ſome learn<g ref="char:EOLhyphen"/>ed Artiſt, while
+<hi>I</hi> thus adviſed, in comes the perſon who had given him the Pills, who did not know me, where<g ref="char:EOLhyphen"/>upon <hi>I</hi> deſired him to let me know his Opinion concerning his Patient. In order to which, down he ſets, pulls his Hat over his Eyes, and gravely putting the Head of his Cane to his
+<pb n="26" facs="tcp:46321:17"/>Lips he begins in a formal way, theſe very Words.
+<hi>Sir, my Patient has now had enough of the purgative part, therefore it will be convenient to proceed unto reſtringents, to Night he ſhall take half an Ounce of Cinnamon in Powder in a Glaſs of Claret, to ſtay the Flux of his Belly, to morrow I will give him ſome re<g ref="char:EOLhyphen"/>ſtringent Pills to ſtay his running.</hi>
+               </p>
+               <p>You cannot but imagine this Fel<g ref="char:EOLhyphen"/>lows impudence might juſtly have raiſed a Paſſion in any Man, who knew any thing of Medicine, but to be ſhort he was ſoon diſmiſſed, and an able Phy<g ref="char:EOLhyphen"/>ſician (as
+<hi>I</hi> deſired) was ſent for, to whom <hi>I</hi> propoſed what
+<hi>I</hi> thought fit to do to the Patient, all which he well approved of, and perſwaded the Pa<g ref="char:EOLhyphen"/>tient to rely upon the courſe <hi>I</hi> had pro<g ref="char:EOLhyphen"/>poſed.
+<hi>I</hi> then began in manner fol<g ref="char:EOLhyphen"/>lowing. Firſt <hi>I</hi> gave him a Balſamick Glyſter, that might heal his excoria<g ref="char:EOLhyphen"/>ted Bowels, and abate his Gripings. <hi>I</hi> then gave him a Cordial <hi>Hauſtus</hi> that
+<pb n="27" facs="tcp:46321:18"/>might refrigerate, and comfort his weak Stomack, and moderately re<g ref="char:EOLhyphen"/>ſtore his too much diminiſhed Spirits, each of theſe I repeated as often as I thought fit, and for his Dyet: I pre<g ref="char:EOLhyphen"/>ſcribed Chicken-Broath, in which was Boyled <hi>Endive</hi> and <hi>French-Barley,</hi> thus his ſtrength was by Degrees increaſed: I all this while, not offering at any An<g ref="char:EOLhyphen"/>tivenereal Medicines, but every Day bathed his Yard, which took down the Swelling. At laſt I began to uſe gentle Antivenereals, keeping him to Emulſions, and Diuretick Decoctions, never Purging him above once in 3 Days, and then but moderately, by which means I perfectly Cured him, and I believe for the future, he will be wary of venturing his Life in the Hands of ſuch a Perſon as he had like to have been ruined by.</p>
+               <p>Not long ſince, <hi>I</hi> was called to vi<g ref="char:EOLhyphen"/>ſit a Perſon who was ſuppoſed to have taken Poiſon, coming into the Room, I
+<pb n="28" facs="tcp:46321:18"/>ſmelt a Cadaverous Scent; ſuch as u<g ref="char:EOLhyphen"/>ſually attends thoſe that are Fluxed. <hi>I</hi> obſerved the Patient, his Face much ſwellen, his Tongue hanging out of his Mouth, and much drivling from his Mouth, <hi>I</hi> declared he had taken ſome Mercurial Medicines that Fluxed him. The Patient could not utter one word, but made ſigns for Pen and Pa<g ref="char:EOLhyphen"/>per, which was brought him; he wrote that he had taken nothing but 4 Pills which a Perſon pretending to <hi>Phyſick,</hi> had given him, for to carry of an infe<g ref="char:EOLhyphen"/>ction, which he ſuppoſed he had of a common Woman ſome time before, &amp; that he feared his Bloud was much in<g ref="char:EOLhyphen"/>fected, by reaſon ſuch
+<hi>ſtrance Accidents</hi> happened upon ſtirring the Humour.</p>
+               <p>I could not but ſmile, to obſerve the timidity of the Patient; wherefore <hi>I</hi> made ſearch for ſome Symptom of the Venereal Diſeaſe, which <hi>I</hi> was very Curious in doing, but through all his Body <hi>I</hi> could not find the reaſt ſign of any ſuch Diſeaſe:
+<hi>I</hi> declared my opi<g ref="char:EOLhyphen"/>nion <pb n="29" facs="tcp:46321:19"/>was, the Patient was abuſed. <hi>I</hi> inquired of the Nurſe, whether there was any of the Pills left, ſhe ſhewed me one which <hi>I</hi> broke, and could plain<g ref="char:EOLhyphen"/>ly ſee the ſmall particles of the Crude, <hi>Quick-ſilver</hi> in it;
+<hi>I</hi> taſted it, and do really believe it was nothing but crude
+<hi>Quick-ſilver,</hi> mixed with <hi>Turpen<g ref="char:EOLhyphen"/>tine, &amp;c. I</hi> cannot ſay mortified, the Preparation being ſo imperfect. And <hi>I</hi> do believe, that the Perſon who Ad<g ref="char:EOLhyphen"/>miniſtred the Pills, did deſign to have frighted the Patient into the believe of a real <hi>Pox,</hi> and by that means to have extorted a Sum of Money from him; the Patient by Writing, deſired me to take care of him, whereupon <hi>I</hi> injec<g ref="char:EOLhyphen"/>ted a Purging Glyſter, which gave him Three or Four Stools, which <hi>I</hi> repeated once every Day,
+<hi>I</hi> waſhed his Mouth with a Reſtringent Lotion, and gave often freſh extracted <hi>Caſſia,</hi> with Salt of <hi>Tartar,</hi> and cauſed him to ſwallow a Golden-Bullet very often, by <pb n="30" facs="tcp:46321:19"/>theſe means <hi>I</hi> precipitated the <hi>Mercury,</hi> and the Patient regained his former Health.</p>
+               <p>Thus may you ſee how dangerous it is, to meddle with ſuch as are either Ignorant of the uſe of Medicine, or that have neither Conſcience or Honeſty, juſtly to conſider each mans Caſe.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Of ſeveral ways of Curing the
+<hi>Pox.</hi>
+               </head>
+               <p>AS there is great variety in the Na<g ref="char:EOLhyphen"/>ture of this Diſeaſe, ſo is there ſeveral ways uſed for the Curing of it, among which, ſome are ſo dangerous, that many perſons have periſhed in their ſuppoſed Cure, and others have been attended by ſuch fierce Accidents, that neither time nor care could ever Remedy; as for Example, <hi>Fumigation</hi>
+                  <pb n="31" facs="tcp:46321:20"/>by <hi>Cinnaber,</hi> that old and dangerous way, hath proved it ſelf ſo pernicious that the Uſe of it is almoſt quite left.</p>
+               <p n="2">
+                  <hi>2dly.</hi> Unction by the Common Mercurial Unguent, a way thought commonly uſed, yet not commendable for by the Uſe of the Unguent, many times the Salivation riſes ſo fiercely that the Patient is ſuffocated, moreover by this way, the Natural heat of the Joynts is oft-times ſo diſſipated that not only a debility of the parts, but Lameneſs hath inſued, more over the uncertainty of this way is great, for ſometimes the
+<hi>Mercury</hi> precipitates it ſelf ſo ſuddenly, that the Salivation proves ineffectual, by not continuing a ſufficient time, nor can the underta<g ref="char:EOLhyphen"/>ker judge exactly, what quantity o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Medicine hath penetrated; yet in thoſe Diſeaſes that are intercutaneous this way may be apt enough.</p>
+               <p n="3">
+                  <hi>3dly.</hi> Salivation by Medicine gives at the Mouth, which is much ſafe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:46321:20"/>than the former, and <hi>I</hi> am certain much more ſure; for firſt, this is, or ought to be done by ſome Mercurial Medicine, neatly prepared, which may be given according to the ſtrength of the Patient, ſtill obſerving to augment, or elſe to diminiſh the Doſe as may be thought fit.</p>
+               <p>Thoſe that Salivate any perſon, ought to be careful, to obſerve the va<g ref="char:EOLhyphen"/>riety there is in Bodys; for they may find that Sanguine and Flegmatick Bo<g ref="char:EOLhyphen"/>dys are not only more eaſie to Salivate, but will likewiſe ſpit much more, and indure it much longer than Cholerick, or Melancholy Bodies can. The pre<g ref="char:EOLhyphen"/>paration of the Body is no ſmall mat<g ref="char:EOLhyphen"/>ter in this ſort of Cure; beſides Care ought to be taken to carry off the Mer<g ref="char:EOLhyphen"/>cury well at laſt.</p>
+               <p n="4">
+                  <hi>4thly.</hi> Sweating which, is divers ways to be cauſed, ſome uſe the Hot-Houſe, <hi>Stuva's, Bannio,</hi> others the Tub or Box, and Cradle, <hi>&amp;c.</hi> Some make a little Stove, wherein the Pati<g ref="char:EOLhyphen"/>ent <pb n="33" facs="tcp:46321:21"/>ſits with his Head out, and is Swea<g ref="char:EOLhyphen"/>ted by a Pan of <hi>Charcoale,</hi> but 'tis a moſt dangerous way, for the Fume which ariſes from the Coals, doth much hurt to the Nerves, and likewiſe to the Lungs, for although the head be out, and thereby the danger of ſuf<g ref="char:EOLhyphen"/>focating be prevented, yet the ill Va<g ref="char:EOLhyphen"/>por doth, and will penetrate through the Pores of the Body, and hath an in<g ref="char:EOLhyphen"/>jurious quality.</p>
+               <p>The beſt way of Sweating is in the <hi>Stuva,</hi> where the Patient being well rubbed, Sweat is more eaſily procured, or elſe the Box or Tub with Spirit of Wine, and this way is very conveni<g ref="char:EOLhyphen"/>ent for the
+<hi>Pox;</hi> for a Sweating-Box is eaſily conveyed to the Patients Cham<g ref="char:EOLhyphen"/>ber, where with little trouble the Par<g ref="char:EOLhyphen"/>ty moves from the Bed into the Box, Sweats, and to Bed again; by which means taking Cold is avoided, which is really the greateſt Enemy in the World to all Pocky Perſons, both <pb n="34" facs="tcp:46321:21"/>theſe laſt mentioned ways of Sweat<g ref="char:EOLhyphen"/>ing I have often found inſtrumental in the Cure of the <hi>Pox,</hi> for it throws out much of the virulency by the Pores of the Skin, and procures the ſpeedy ſea<g ref="char:EOLhyphen"/>ling and falling away of the Scabs, and abateth Pains in the Shoulders, Shins, or any part of the Body; I have found great Nodes to be much helped by Sweating.</p>
+               <p n="5">
+                  <hi>5thly.</hi> Diet, which is a ſafe way, working moderately, and yet ſurely. My meaning here is, by the uſe of a good convenient. <hi>Diet-Drink,</hi> aptly ſitted to the Conſtitution of the Pati<g ref="char:EOLhyphen"/>ent. For although a late French Wri<g ref="char:EOLhyphen"/>ter (as well as ſome of our own Coun<g ref="char:EOLhyphen"/>try men) doth deny that either <hi>Sarſa, China, Sarſafras,</hi> or
+<hi>Guacum,</hi> have any Power in Curing the <hi>Pox.</hi> I know they are in the wrong, and I have by great Experience found the Eſſicacy of them, being juſtly prepared; yet I muſt allow that ſome men do much
+<pb n="35" facs="tcp:46321:22"/>hurt by the unadviſed Uſe of <hi>Die<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Drinks,</hi> partly by ignorance, and par<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly by avarice, making uſe of too much <hi>Guacum,</hi> both <hi>VVood</hi> and
+<hi>Bark,</hi> which not only too much exſiccates, but often inflames the Body by its exceſſive hea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for 'tis moſt common among ſome me<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to rely too much upon the Fame o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe or other Drugs; imagining that <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long as that they have but great ſtor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Drugs in their <hi>Diet-Drinks,</hi> the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cannot do amiſs, when indeed the on<g ref="char:EOLhyphen"/>ly matter is in diſpencing prope<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quantities of this or that Drug, accor<g ref="char:EOLhyphen"/>ding to the Nature of the Diſeaſe, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Conſtitution of the Patient: Fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome men are ſatisfied ſince they know an Antivenereal is uſed never conſider<g ref="char:EOLhyphen"/>ing that in weak Perſons that are ema<g ref="char:EOLhyphen"/>ciated by the Diſtemper they muſt a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> avoid the uſe of
+<hi>Guacum,</hi> or its <hi>Bark,</hi> o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that in Cholerick Perſons, the uſe o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch hot Medicines are dangerous, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet uſed with good ſucceſs in Plethori<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="36" facs="tcp:46321:22"/>Bodies; more-over I have obſerved great miſtakes in many (who under<g ref="char:EOLhyphen"/>take to Cure this Diſeaſe by <hi>Diet</hi>) in ſuffering their Patients to go abroad, conſtantly in the time of their Cure when as reaſon directs the contrary; for thoſe which undergo a courſe of
+<hi>Diet-Drink,</hi> ought to keep in their Chambers, and to keep their Bodies very warm, to help perſpiration with Cuſtome (although ſeldome obſerved here) is conſtantly uſed in <hi>Spain, Italy,</hi> and other parts.</p>
+               <p n="6">
+                  <hi>6thly.</hi> Purging which, is a ſafe way, and daily Experience, teacheth that many Venereal Caſes are treated by no other means, and yet are very hand<g ref="char:EOLhyphen"/>ſomely Cured. And I can with mo<g ref="char:EOLhyphen"/>deſty affirm that I have Cured many hundreds by this way alone, for what other way can or may be uſed to thoſe poor unhappy Wretches, where Pox and <hi>Poverty</hi> are complicated, and 'tis to be obſerved, that although none of
+<pb n="37" facs="tcp:46321:23"/>the fore mentioned means are able to Cure this Diſeaſe without the help of Purging, yet this way has Cured ma<g ref="char:EOLhyphen"/>ny without other helps; but I do not here mean the common uſe of ordina<g ref="char:EOLhyphen"/>ry Catharticks, but Purging by ſome noble Preparation, which hath the powerful quality of of Correcting the Venereal Venome, and reſtoring Vigor to the Body, whereby it may be able to throw off the Diſeaſe; and indeed I have ſeen many ſtrange Caſes, wherein no other Medicine has been uſed but my Antivenereal Pill, which being took once in two days, for ſome time, has worked of the Diſeaſe to a Mira<g ref="char:EOLhyphen"/>cle.</p>
+               <p n="7">
+                  <hi>7thly.</hi> Iſhues upon which, the
+<hi>Spainards</hi> ſo doted formerly, that it was their com<g ref="char:EOLhyphen"/>mon Cure, and
+<hi>I</hi> have my ſelf uſed this way with ſucceſs in confirmed
+<hi>Poxes,</hi> for they cleanſe the Body much, and accelerate the Cure ſeveral ways, by evacuating the Humor, and many <pb n="38" facs="tcp:46321:23"/>times by revulſion in <hi>Ozena's, I</hi> com<g ref="char:EOLhyphen"/>monly make a Fontinel in each Arm, and a Seton in the Neck, theſe adju<g ref="char:EOLhyphen"/>gate a cure, eſpecially if the Patient have a
+<hi>Catharr</hi> or <hi>Aſtma.</hi> But Iſhues are of themſelves not able to over<g ref="char:EOLhyphen"/>come the malignity of this Diſeaſe, however neceſſary for all perſons who labour under the <hi>Pox,</hi> excepting thoſe who are to undergo the Salivation, and thoſe <hi>I</hi> always adviſe to dry up their Iſhues upon the beginning of a Salivating Courſe, it being then no way proper to dry the Body leaſt jui<g ref="char:EOLhyphen"/>ces be wanting to maintain the ſpit<g ref="char:EOLhyphen"/>ting its proper time.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> The true way of Curing the
+<hi>POX.</hi>
+               </head>
+               <p>NOw ſince ſo many ways are, or may be uſed for to cure this Diſeaſe, tis the Duty of every honeſt Artiſt rightly to conſider the Patients <pb n="39" facs="tcp:46321:24"/>caſe, and juſtly to weigh, what ſort of cure may be moſt fit for them, for as there is great variety in the Diſeaſe, ſo muſt there be in the cure; ſome perſons muſt of neceſſity keep up, o<g ref="char:EOLhyphen"/>thers have not, nay cannot have the conveniency of retirement, ſome Bodies will admit of the moſt rough ways of cure, others muſt have more gentle means uſed.</p>
+               <p>
+                  <hi>Firſt,</hi> Obſerve, there is degrees of the
+<hi>Pox,</hi> that no internal Medicine can reach, no Fume, no Salivation, no Diet, Purgation, Sweating, <hi>&amp;c.</hi> can help, what's then to be done? where Medicine cannot reach, manual Operation muſt, for where ever the
+<hi>Pox</hi> fouls a Bone, nought but exfolia<g ref="char:EOLhyphen"/>ting can avail, therefore, if the
+<hi>Cra<g ref="char:EOLhyphen"/>nium</hi> or any other Bone be foul lay it bare, ſo far as is convenient, and with detergent and exſiccating Powders, keep the part as dry as poſſibly you can, that the Bone may ſcale; in the <pb n="40" facs="tcp:46321:24"/>Arms and Shins lay open all foul Bones, nor ever attempt the cure any other way, for every mans reaſon will direct that, nought but laying open can be proper where a Bone is foul, and tis wonderful to obſerve, how Nature will help to diſcharge the ma<g ref="char:EOLhyphen"/>lignant matter, ſo that the Patient be<g ref="char:EOLhyphen"/>ing aptly dreſſed once or twice in 24 hours, there will be little more to do, unleſs you will make uſe of a good Sarſa-Drink, which if the Patient can be at the charge of, will accelerate the cure, and reſtore the ſtrength by amending the habit of body, and in<g ref="char:EOLhyphen"/>deed I never miſſed in this ſort of cure, for I have made it my reſolution, where ever I begin, to go through with my work, and therefore in this caſe eſpecially, will take care that the Patients Poverty be not my Diſgrace, for if good Nutriment and conveni<g ref="char:EOLhyphen"/>ency of place <hi>&amp;c.</hi> be wanting, it will be hard for Nature to ſupport it ſelf in this ſort of cure.</p>
+               <pb n="41" facs="tcp:46321:25"/>
+               <p>☞ <hi>Chankers</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>lcers</hi> on the
+<hi>Glans,</hi> or <hi>Prepuce</hi> require a careful head and hand to manage rightly, and I am moſt certain, that the major part of mankind which have ſuffered by the <hi>Pox,</hi> may date the Original of their miſeries from the neglect of theſe Sores, but let no man miſtake me, nor yet his own caſe, for I do not mean Excoriations of either <hi>Glans</hi> or
+<hi>Prepuce,</hi> for theſe are cured in a few hours, but venemous
+<hi>Chankers</hi> require both time and care, ſuch as carry a hardneſs all round the Sore, for though they appear never ſo ſmall, yet muſt they be eſteem'd as particular <hi>Poxes,</hi> from which confirmed <hi>Poxes</hi> too of<g ref="char:EOLhyphen"/>ten proceed; the true cure conſiſts in being well digeſted, all repelling Medicines being avoided, for tis an inhumane Cruelty to make ſlight of ſuch Sores, as too many do, aſſuring the Patient they are but ſlight mat<g ref="char:EOLhyphen"/>ters, a few dreſſings and as few Pur<g ref="char:EOLhyphen"/>ges <pb n="42" facs="tcp:46321:25"/>will ſecure all as they pretend, thus lulling the party into a dange<g ref="char:EOLhyphen"/>rous
+<hi>Pox,</hi> as ſix Months or may be leſs will ſhew. I ſay therefore, that all <hi>Chankers</hi> muſt be ſtrongly di<g ref="char:EOLhyphen"/>geſted; the Patient ought to Purge and ſweat often, and a good Diet-drink would confirm the Cure, but if upon healing the <hi>Chankers,</hi> the hardneſs remain, you muſt be forced to ſalivate before you can be ſafe; I have ſeen <hi>Chankers</hi> that nought but ſalivation could Conquer, whoſe cal<g ref="char:EOLhyphen"/>lous Lips no corroſive could conſume; for, ſuppoſe a Patient who hath a ſharpneſs of Bloud from a venereal cauſe, you will find to your no ſmall trouble, how difficultly ſuch a mans <hi>Chankers</hi> will admit of Cure. On the contrary, a Patient of a good ha<g ref="char:EOLhyphen"/>bit of Body, whoſe very Bloud is a Balſom, from him you ſhall have more eaſie Digeſtion and all your Medicines more ſucceſs, but care <pb n="43" facs="tcp:46321:26"/>muſt be taken in all, that you repell not.</p>
+               <p>☞ <hi>Caruncles,</hi> commonly called
+<hi>Carnoſities,</hi> theſe lie in the <hi>
+                     <g ref="char:V">Ʋ</g>rethra,</hi> which is the paſſage of the Yard, and ſome time at the very neck of the Bladder; I have ſeen ſome perſons ſo ſtopped up, they could not make one drop of Urine, but by the help of a <hi>Catheter.</hi> This ſort of <hi>Pox</hi> requires great care, for you muſt by the uſe of <hi>Corroſives,</hi> conſume, and eat a<g ref="char:EOLhyphen"/>way, all that you can come at, of the <hi>Carnoſity</hi> at the ſame time, duly conſidering to avoid Defluxion of humors, therefore muſt the Patient uſe a convenient Diet-drink, relating to his Age and Conſtitution, for you muſt obſerve, that you may treat a man of Forty or Fifty in this caſe, differently from one of half his Age, and you muſt not omit to obſerve, that all the Durity be Conſumed; <pb n="44" facs="tcp:46321:26"/>Sweating and Bathing is of great uſe in this Cure, for it relaxes and ſof<g ref="char:EOLhyphen"/>tens the part, and prevents inflama<g ref="char:EOLhyphen"/>tion, which in men of years doth often happen. In caſes of this na<g ref="char:EOLhyphen"/>ture, after I have done what is poſ<g ref="char:EOLhyphen"/>ſible by my Candle, if I feel or ſuſ<g ref="char:EOLhyphen"/>pect the leaſt hardneſs to remain, I ſalivate my Patient, or if I omit that, I am ſure to give a good Diet-drink, and to purge ſo often as need requires, and many times I order a
+<hi>Milk-Diet</hi> to finiſh the Work.</p>
+               <p>☞ <hi>Bubo's</hi> or <hi>Poulaines,</hi> (as the
+<hi>French</hi> call them,) in the Cure of theſe, all ſorts of Evacuation is to be avoided; let the Patient <hi>Eat, Drink,</hi> and be <hi>Merry,</hi> let him <hi>Eat</hi> plentifully of the <hi>hotteſt-Meats,</hi> and
+<hi>Drink</hi> the <hi>Strongeſt Liquors</hi> to incou<g ref="char:EOLhyphen"/>rage the <hi>Natural Heat,</hi> to throw out the <hi>Malignant Matter;</hi> let the ſwel<g ref="char:EOLhyphen"/>ling be anointed with ſome <hi>Suppara<g ref="char:EOLhyphen"/>tive,</hi> 
+                  <pb n="45" facs="tcp:46321:27"/>keep a ſtrong
+<hi>Suppurating Cata<g ref="char:EOLhyphen"/>plaſme</hi> on it, it may not be amiſs once in twenty four hours to apply a large <hi>Cupping-Glaſs</hi> to help forward the hu<g ref="char:EOLhyphen"/>mour; great care muſt be taken that the Matter do not return, and cauti<g ref="char:EOLhyphen"/>on uſed not to open the part, until it be ſuppurate, and then ſo opened, that it may not become Fiſtulous, for though no ſort of <hi>Pox,</hi> is ſo eaſie to cure as this, yet many Patients miſcarry, by wanting ſuch Surgeons as rightly underſtand the method of curing <hi>Buboes,</hi> and I have met with ſeveral perſons, who have had their <hi>Buboes</hi> ſo ill treated, that they have become Cancerous, and difficultly admitted of Cure, theſe Sores ought to be well digeſted, and kept run<g ref="char:EOLhyphen"/>ning ſo long as poſſible, with conve<g ref="char:EOLhyphen"/>nient Purging and Sweating, to<g ref="char:EOLhyphen"/>wards the end of the Cure, and when all is healed a good Diet drink would make ſure Work.</p>
+               <pb n="46" facs="tcp:46321:27"/>
+               <p>☞ <hi>
+                     <g ref="char:V">Ʋ</g>lcers,</hi> in the Throat or Mouth, muſt be cleanſed by ſtrong detergent Medicines, nor muſt any Salivation be performed upon perſons ſo affected, until the particular Cure be firſt performed, leaſt the parts al<g ref="char:EOLhyphen"/>ready weak, ſhould ſuffer damage by a too ſudden flux of humours, but after the <hi>
+                     <g ref="char:V">Ʋ</g>lcers</hi> are once Cured, the general Cure may more ſafely be per<g ref="char:EOLhyphen"/>formed, (the ſame obſervation ought to be made in <hi>Ozena's,</hi>) nor do the <hi>
+                     <g ref="char:V">Ʋ</g>lcers</hi> of the Throat, threaten leſs than the fall of the Noſe, where they are neglected, for the matter that flows from the <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> doth often foul the <hi>Os Spongioſum &amp; Cribriforme,</hi> where the matter once lodged, ſoon becomes an inveterate Enemy; I know ſome perſons, who have of<g ref="char:EOLhyphen"/>ten large
+<hi>
+                     <g ref="char:V">Ʋ</g>lcers</hi> in the Throat, which ſoon diſappear, but I ne<g ref="char:EOLhyphen"/>ver think any Patient Cured in ſuch <pb n="47" facs="tcp:46321:28"/>a caſe, until they undergo the Sali<g ref="char:EOLhyphen"/>vation.</p>
+               <p>☞ The preparation of Bodies is very material in the cure of this Di<g ref="char:EOLhyphen"/>feaſe, for ſuppoſe a Patient in years, of a cholerick temperament emacia<g ref="char:EOLhyphen"/>ted by the Diſeaſe, having miſſed of his Cure, two or three, or more times, this Patient, any man muſt believe would be hard to cure, every man would ſay, nothing but a Sali<g ref="char:EOLhyphen"/>vation could help him, yet it would be dangerous to Salivate ſuch a per<g ref="char:EOLhyphen"/>ſon, without the due preparation,
+<hi>viz.</hi> Firſt, Let him be ſed with <hi>freſh-Meats,</hi> that breed flegmatick Juices, ſuch are <hi>New laid Eggs, Cream, Almond-Milk, Veal, Pullet,</hi> the whiteſt <hi>Bread,</hi> ſweet and nouriſh<g ref="char:EOLhyphen"/>ing
+<hi>Wines,</hi> pleaſant <hi>Tiſans, freſh-Fiſh,</hi> and all ſorts of <hi>Pulſe,</hi> that may breed a quantity of humours, which may create matter for the Salivation, <pb n="48" facs="tcp:46321:28"/>nor will it be amiſs, to treat ſuch a Patient in the beginning of the Sali<g ref="char:EOLhyphen"/>vation, with nouriſhing
+<hi>Broaths,</hi> adding now and then the yelk of a new laid <hi>Egg, Endive,</hi> or <hi>Succory</hi> are moſt properly put into <hi>Broath,</hi> for ſuch a perſon, by reaſon they cool and abate the ſharpneſs of the hu<g ref="char:EOLhyphen"/>mours, and moderately looſen the Belly: Gliſters of
+<hi>Chicken-Broath</hi> are proper in this caſe, one in four or five days, by reaſon they nouriſh the Bowels, which would be ſubject to
+<hi>Tortions,</hi> the <hi>Acrimonious</hi> humours ſome times ſlipping downwards.</p>
+               <p>Moreover, after the Salivation, a nouriſhing <hi>Reſtorative Diet drink</hi> is proper, wherein care be took to a<g ref="char:EOLhyphen"/>void all things that exſiccate, and great care ought to be in giving of Nutriment, that eaſily digeſts, for it muſt be took often, it being requiſite to get ſuch a Patient in <pb n="49" facs="tcp:46321:29"/>ſtrength, as faſt as Nature can give leave.</p>
+               <p>☞ But on the contrary, if a Pa<g ref="char:EOLhyphen"/>tient be Young and Robuſt, of a San<g ref="char:EOLhyphen"/>guine or flegmatick Conſtitution, then muſt another courſe be taken, if Salivation be intended, and it may be convenient to purge this Patient, four or five times, to Bleed and Bathe, to abate and prepare the humours, leaſt the Salivation ſhould riſe too fiercely. A moderate Diet is conve<g ref="char:EOLhyphen"/>nient, of ſuch things as breed good, but little Juices, ſuch are
+<hi>Partridge, Larke, Rabbets, Mutton,</hi> &amp;c. <hi>Diet-drinks,</hi> or
+<hi>Tiſans</hi> that gently exſic<g ref="char:EOLhyphen"/>cates, are convenient in the prepa<g ref="char:EOLhyphen"/>ration.</p>
+               <p>In the beginning of the Salivation, uſe no <hi>Broath,</hi> but <hi>Poſſet-drink,</hi> or thin <hi>Water-Gruell,</hi> and ſo continue; and it may be obſerved, that a Pati<g ref="char:EOLhyphen"/>ent <pb n="50" facs="tcp:46321:29"/>of this Conſtitution, may be ex<g ref="char:EOLhyphen"/>pected to Spit, ſix or ſeven Pints in twenty four hours, (whereas in the caſe before mentioned, four Pints is as much as can be expected;) after the Salivation, a <hi>Diet-drink</hi> may be gi<g ref="char:EOLhyphen"/>ven, that exſiccates powerfully, and moves Sweat, obſerving to purge the Body well, by this you may ob<g ref="char:EOLhyphen"/>ſerve, how much more bold you may be, with a perſon of a Plethorick Conſtitution, and conſequently ſuc<g ref="char:EOLhyphen"/>culent, than with a Body
+<hi>Emaciated,</hi> where Juices are wanting, and let none omit to obſerve, that in Saliva<g ref="char:EOLhyphen"/>tions, there will happen to ſome Fain<g ref="char:EOLhyphen"/>ting Fits, for which there is no better Cordial, than a ſmall Glaſsof <hi>Clarret,</hi> which comforts ſufficiently, and ſen<g ref="char:EOLhyphen"/>cibly doth precipitate the Medicine. The manner of defending the Mouth, and curing the <hi>
+                     <g ref="char:V">Ʋ</g>lcers,</hi> cauſed by the Saliva, is ſo common, <hi>I</hi> need not mention it.</p>
+               <pb n="51" facs="tcp:46321:30"/>
+               <p>☞ The <hi>Venereal Aſtma,</hi> which is but ſeldom Cured, for where the Lungs are affected, the Party is ge<g ref="char:EOLhyphen"/>nerally brought ſo low, before the Cure is attempted, that Nature can aſſiſt but little, and here no Salivation can be admitted, the Cure muſt be attempted by
+<hi>Reſtoratives,</hi> ſuch as <hi>Sarſa, China,</hi> with
+<hi>Pectoralls,</hi> with moderat Sweats, and large <hi>Fonta<g ref="char:EOLhyphen"/>nells</hi> in the Shoulders, <hi>Aſſes-Milk,</hi> or <hi>Cows Milk,</hi> mixed with the
+<hi>Diet-drink,</hi> very moderate purgatives, and thoſe mixed with
+<hi>Pectoralls,</hi> untill ſtrength be attained, and then hauing a fit time of the Year, and all needfull ſupplies, a gentle Flux may be rai<g ref="char:EOLhyphen"/>ſed, but not continued too long, leaſt while thou goeſt about to cure thy Patient of the <hi>Pox,</hi> you Bury him of a <hi>Conſumption.</hi>
+               </p>
+               <pb n="52" facs="tcp:46321:30"/>
+               <p>☞ Many other Accidents may happen, which having their Origi<g ref="char:EOLhyphen"/>nal from the <hi>Pox,</hi> will admit of no other Cure, for we many times find a Venereal <hi>Opthalmia,</hi> a Venereal <hi>Fiſtula,</hi> ſome time on the <hi>Lacrymal Glandule,</hi> that fouls the Bone, and makes Mad-work, and often the Pockey <hi>Fiſtula</hi> in <hi>Ano;</hi> in many the Venereal
+<hi>Scorbute,</hi> in others a Venereal <hi>Itch,</hi> to all which may be added, the foul Ulcerous Sores, which are taken for the <hi>Kings-Evil,</hi> but will with the fore-named, come within compaſs of the <hi>Pox,</hi> and there<g ref="char:EOLhyphen"/>fore muſt be attacqued as it.</p>
+               <p>☞ Tumors of the <hi>Prepuce,</hi> of which are ſeveral ſorts, <hi>viz. Cryſ<g ref="char:EOLhyphen"/>tallines,</hi> which are tranſparent ſwel<g ref="char:EOLhyphen"/>lings of the <hi>Prepuce,</hi> and are to be diſcuſſed by ſomentations, or by Ba<g ref="char:EOLhyphen"/>thing the part. <hi>Paraphymoſis,</hi> which <pb n="53" facs="tcp:46321:31"/>is a ſwelling of the <hi>Prepuce,</hi> occaſi<g ref="char:EOLhyphen"/>oned by ſome <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> on the <hi>Glans,</hi> or <hi>Prepuce,</hi> or perhaps by <hi>Warts</hi> on the
+<hi>Glans,</hi> which becoming Raw, do Ulcerate, Inflame, and ſwell the
+<hi>Pre<g ref="char:EOLhyphen"/>puce,</hi> to that degree, that it will no way ſtrip, by which means the <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> being hid, doth become more inve<g ref="char:EOLhyphen"/>terate, and by the Venereal <hi>Salts,</hi> cauſe ſo great a humour, that many times Mortification happens, and from thence the Death of the Pati<g ref="char:EOLhyphen"/>ent; in this caſe, the part muſt be Fomented, or Bathed, to draw out the <hi>Salts</hi> that have ſwelled the <hi>Pre<g ref="char:EOLhyphen"/>puce,</hi> or if that will not do, Ampu<g ref="char:EOLhyphen"/>tation muſt follow; I mean, to cut off ſo much of the <hi>Prepuce,</hi> that the
+<hi>Glans</hi> may be bare, and conſequently, the better to come at the
+<hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> for it may be obſerved, that 'tis im<g ref="char:EOLhyphen"/>poſſible to cure the <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> unleſs you can come fairly at it, and therefore thoſe perſons that attempt by a <hi>Sy<g ref="char:EOLhyphen"/>ringe,</hi> 
+                  <pb n="54" facs="tcp:46321:31"/>to cleanſe between the <hi>Glans</hi> and <hi>Prepuce,</hi> make their Patients too dearly to buy their Experience, nor is this all, for if the remaining part after Amputation be found hard, it will be convenient not only to digeſt it, but to ſalivate the Pati<g ref="char:EOLhyphen"/>ent gently, to make Revulſion of humours, and timely to correct the Malignity of the <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> which too often doth infect the whole Maſs of Bloud. He hath had but little ex<g ref="char:EOLhyphen"/>perience of this Diſeaſe, who doth not know from how ſmall a matter this Accident doth happen, particu<g ref="char:EOLhyphen"/>larly in thoſe men who have natu<g ref="char:EOLhyphen"/>rally contracted
+<hi>Prepuces.</hi>
+               </p>
+               <p>☞ <hi>Warts</hi> and <hi>Excreſſencies,</hi> on the Privities happening to either Sex, muſt not be neglected, for they are as ſo many Land Marks to aſſure the <hi>Pox</hi> confirmed, and although many people take little notice of <pb n="55" facs="tcp:46321:32"/>them, where ever I ſee them, I know all is not well, and therefore take care, not only to remove them by Cauſticks, or elſe by Binding, but likewiſe to Eradicate the cauſe by ſuch a courſe, as I judge moſt fit<g ref="char:EOLhyphen"/>ting for the Patients conſtitution.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="56" facs="tcp:46321:32"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> The true way of Curing a
+<hi>Gonorrhaea.</hi>
+               </head>
+               <p>THis is the common name of that Diſeaſe we call a
+<hi>Clap,</hi> al<g ref="char:EOLhyphen"/>though the word <hi>Gonorrhaea</hi> ſignifies an involuntary flowing of the Seed, which a <hi>Clap</hi> is not, but ſince it will be hard to remove ſo common received a name, I will treat of it by either name of <hi>Clap,</hi> or if you will have it ſo
+<hi>Gonorrhaea.</hi>
+               </p>
+               <p>A <hi>Clap</hi> is an <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> of the <hi>Proſtate Glandules,</hi> which are ſeated at the root of the Yard, and from the Ul<g ref="char:EOLhyphen"/>ceration of theſe <hi>Glandules,</hi> the mat<g ref="char:EOLhyphen"/>ter or Pus comes, that either runs, <pb n="57" facs="tcp:46321:33"/>or is ſqueeſed out from the
+<hi>Penis,</hi> and it ſometimes happens, that the <hi>
+                     <g ref="char:V">Ʋ</g>re<g ref="char:EOLhyphen"/>thra,</hi> or paſſage of the Yard is Ulce<g ref="char:EOLhyphen"/>rated all along, from whence is cau<g ref="char:EOLhyphen"/>ſed the Pain in Erection, commonly called <hi>Cordee,</hi> for the Acrimony of the humour that runs from the <hi>
+                     <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cer,</hi> doth irritate the part, and cauſe the Erection of the Yard, and the Nerves being much diſtended there<g ref="char:EOLhyphen"/>by, cauſes the extraordinary Pain, they ſuffering no leſs than a Convul<g ref="char:EOLhyphen"/>ſion, by the pricking of the Acrimo<g ref="char:EOLhyphen"/>nious humour, during the time of Erection, beſides, the <hi>Glandules</hi> at the root of the Yard, hear their ſhare in the Pain, by the violent ſtretch<g ref="char:EOLhyphen"/>ing of the Yard, although in ſome <hi>Claps,</hi> the Patient ſcarce feels the leaſt of theſe Accidents, and ſome not ſo much as the Pain in Piſſing, particularly Women, who are not ſo much afflicted in this caſe as Men, but then are not ſo certain in <pb n="58" facs="tcp:46321:33"/>making Obſervations of it, the rea<g ref="char:EOLhyphen"/>ſon why, ſew Women ſeek for help, untill the Diſtemper be ſo long Lodg'd, that it becomes a confirmed <hi>Pox,</hi> nay, ſome men are ſo fool har<g ref="char:EOLhyphen"/>dy, that they will little value the Diſeaſe, (ſaying, they have nothing but a Running,) untill the <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> has caten away the <hi>Proſtate Glandules,</hi> or perhaps the humour ſo far fermented by diſorderly Living, that the whole Maſs of Bloud is infected; others, (fooliſhly cry out, 'tis but a <hi>Clap,</hi>) not conſidering the difference there is in this Diſeaſe, for ſome <hi>Claps</hi> are really ſo gentle, that I have known one Box of my <hi>Antivenercal Pills</hi> to carry off all, and on the contrary, ſome are ſo inveterate, that they will imploy, both Patient and Underta<g ref="char:EOLhyphen"/>ker in the Cure, for men ought to conſider, that there is degrees of In<g ref="char:EOLhyphen"/>fection, and that the ill habit of the Body, doth very much contribute to
+<pb n="59" facs="tcp:46321:34"/>the afflicting of the Patient, and this is one reaſon why ſome are cured in three weeks and leſs, and others per<g ref="char:EOLhyphen"/>haps not well in as many Months, but to haſten, (for <hi>I</hi> do not deſign a Volume,) to the true and ſafe way of curing this Diſeaſe, pray obſerve, that the firſt thing to be adviſed is Liquids, ſuch are proper <hi>Tiſans, E<g ref="char:EOLhyphen"/>mulſions,</hi> or any other Liquors that breed no <hi>Acids,</hi> but that are ſlip<g ref="char:EOLhyphen"/>pery, that eaſily paſs the Stomack, and create a ſoft
+<hi>Serum,</hi> which paſ<g ref="char:EOLhyphen"/>ſing by Urine, waſhes the <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> and dints the points of the <hi>Venereal Acids,</hi> for 'tis a fault among many Patients, to fear to make Urine be<g ref="char:EOLhyphen"/>cauſe of Pain, when they ought to do the contrary, by filling the Blad<g ref="char:EOLhyphen"/>der continually, by pouring in of convenient Liquors, and often making water, by which means (the Urine being made balſamick, by the <hi>Ano<g ref="char:EOLhyphen"/>dine</hi> Liquors frequently drank,) the
+<pb n="60" facs="tcp:46321:34"/>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>lcer</hi> ſo often waſhed, the <hi>Acrimony</hi> becomes leſs, nor has the Matter which Runs, the power of hurting the paſſage of the Yard, becauſe, 'tis not ſuffered to lie in the part any conſiderable time. The Body muſt be continually kept ſoluble, there<g ref="char:EOLhyphen"/>fore
+'tis convenient to Purge the Pa<g ref="char:EOLhyphen"/>tient once in two days, or oftner if need require, and in ſome Bodies, to Purge once in three days is often nough.
+<hi>Anodine</hi> Gliſters, once in two days are convenient, but I do not approve of that common <hi>French</hi> Faſhion, of continually ſtuffing the Breech, with two or three Gliſters a day. <hi>Volatile</hi> and other
+<hi>Salts</hi> I fre<g ref="char:EOLhyphen"/>quently give, once or twice in twen<g ref="char:EOLhyphen"/>ty four hours, which work by Urine, helping the Liquors off the Stomack, which otherwiſe, would be apt to Nauſeate becauſe of their Quantities, it will not be amiſs, to allow the Patient half a pint of <hi>Wine</hi> a day, or <pb n="61" facs="tcp:46321:35"/>more if he has accuſtomed his Body to it, for all ſudden alterations are injurious to the Body, thoſe that are by reaſon of their Circumſtances o<g ref="char:EOLunhyphen"/>bliged to keep Company, may Drink <hi>White-Wine,</hi> or
+<hi>Rheniſh,</hi> with <hi>Water</hi> and <hi>Lemon,</hi> or as much
+<hi>Tea</hi> as they pleaſe; <hi>Chicken-Broath,</hi> with <hi>En<g ref="char:EOLhyphen"/>dive, Succory,</hi> and <hi>Lemon,</hi> is proper to Drink great Quantities, eſpecially when they Purge, always obſerving to keep the Body as ſtill as poſſible, for exerciſe is very injurious, by rea<g ref="char:EOLhyphen"/>ſon it heats and inflames the parts, and therefore the leſs the Patient Walks, the better it is. Diet muſt be obſerved, and all ſalted Meats, and things hard of Digeſtion muſt be a<g ref="char:EOLhyphen"/>voided; all <hi>Fatty-Meats</hi> are ill, ſo are windy things; be ſure to avoid, <hi>Salted-Beef, Pork, Bacon, Salt-Fiſh, Cheeſe- Fruit, &amp;c.</hi> Let the Patient eat, <hi>Chicken, Rabbet, Mutton, Par<g ref="char:EOLhyphen"/>tridge, Veal, Barly-Broath, Water-Gruel, <pb n="62" facs="tcp:46321:35"/>Panadoes, Freſh Fiſh</hi> Boiled, and all things of eaſie Digeſtion, a<g ref="char:EOLhyphen"/>voiding all <hi>Hot-Sawces,</hi> that provoke Luſt, or breed <hi>Acids;</hi> great care muſt be taken, that the Purgations uſed, be not too ſtrong, nor yet too often uſed, for violent Purging, of<g ref="char:EOLhyphen"/>times heats the parts, procures Infla<g ref="char:EOLhyphen"/>mation, and not ſeldom occaſions ſwellings in the
+<hi>Teſticules,</hi> extream painfull, from which, many times are occaſioned violent <hi>Fevers,</hi> with extraordinary debility of the Body, but we muſt leave no Accident un<g ref="char:EOLhyphen"/>provided for, and therefore when ever this happens, the Patient muſt forbear all Purgatives, except ſuch as are very Coole and Gentle. An <hi>Anodine,</hi> and <hi>diſcuſſing Cataplaſme,</hi> with a convenient <hi>Truſs</hi> is here to be uſed, if the tumor be large, it will be the more Painfull, and may re<g ref="char:EOLhyphen"/>quire to take Bloud from the Arm, to make Revulſion; a ſlender Diet <pb n="63" facs="tcp:46321:36"/>is likewiſe convenient, to abate th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quantity of humours; a Decoction of
+<hi>Emollient</hi> and <hi>Diſcutient Herbs</hi> and <hi>Seeds</hi> applied by way of Fomen<g ref="char:EOLhyphen"/>tation, or as a <hi>Semicupium,</hi> for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Patient to ſit in is not amiſs, with <hi>Emulſicns</hi> of the cold Seeds, to abat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inflamation and cauſe ſleep.</p>
+               <p>Another extraordinary Acciden<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> too often happens, either by the to violent Purging, or diſorderly ma<g ref="char:EOLhyphen"/>nagement of the Patient, in eithe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſlighting his Medicines, or many times repeating of the Diſtemper getting two or three <hi>Claps</hi> one upon the head of another, by which mean the <hi>Proſtate Glandules,</hi> ſo often (o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo long) Ulcerated, are much eate<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> away, and a <hi>Gleete,</hi> or as ſome ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, a <hi>Weeping</hi> is occaſioned.</p>
+               <pb n="64" facs="tcp:46321:36"/>
+               <p>And this Diſeaſe is really moſt difficult to help, by reaſon the hu<g ref="char:EOLhyphen"/>mours ſo long accuſtomed to flow to the part, will not eaſily be diverted, and loſs of ſubſtance with great dif<g ref="char:EOLhyphen"/>ficulty repaired.</p>
+               <p>But let me not accuſe our Sparks, of too great intemperance, nor make them more Guilty than really they are, for many of them are put upon, eſpecially by our beyond Sea-Surge<g ref="char:EOLhyphen"/>ons, who pretend to do wonders with the Pot of <hi>Turpentine,</hi> Gliſter and <hi>Sy<g ref="char:EOLhyphen"/>ringe,</hi> which laſt they too ſoon uſe, and by ſome reſtringent injection ſtop the Running, which in a few days break out again, and then (<hi>Be-Gar Sir</hi>) you have got a freſh one, (which ten to one, but they manage as wiſely as they did before.) but indeed is the firſt <hi>Clap,</hi> which for the time of it's continuance, may ſerve for two or three.</p>
+               <pb n="65" facs="tcp:46321:37"/>
+               <p>Now the true way of curing a <hi>Gleete,</hi> or
+<hi>Weeping,</hi> is firſt to obſerve whether, it be really ſo or not, for I have had many perſons that have come to me to be cured of a
+<hi>Gleete.</hi> which when I have viewed, I have found to be a virulent
+<hi>Clap,</hi> which I have both Treated and Cured, as ſuch, it may therefore be convenient to mention what a <hi>Gleete</hi> or <hi>Weeping</hi> really is, and then to ſet down the means of curing the ſame.</p>
+               <p>The <hi>Proſtate Glandules</hi> being either eaten away, or too much relaxed, and ſo weakned by the continual Ul<g ref="char:EOLhyphen"/>ceration, or otherwiſe heated, and diſtended by continual ſtrong Purga<g ref="char:EOLhyphen"/>tives, a thin Seminal Matter, continu<g ref="char:EOLhyphen"/>ally flows from the Yard, and this is the true <hi>Gleete,</hi> for Nature hath pla<g ref="char:EOLhyphen"/>ced theſe <hi>Glandules</hi> at the root of the Yard, to hinder the too ſoon ejecting of the Seed, in the Act of Genera<g ref="char:EOLhyphen"/>tion,
+<pb n="66" facs="tcp:46321:37"/>and makes them ſerve as Strai<g ref="char:EOLhyphen"/>ners, through which the Seed preſ<g ref="char:EOLhyphen"/>ſing, is more violently emitted, and is moſt plainly proved, by thoſe who labour under this Infirmity, they be<g ref="char:EOLhyphen"/>ing too ſenſible of the loſs of that Na<g ref="char:EOLhyphen"/>tural Force, even before the courſe of Nature can be ſaid to have depri<g ref="char:EOLhyphen"/>ved them of it: And from hence it likewiſe happens, that ſuch perſons are troubled with the ſlipping away of a thin and ſeminal Matter, when they go to Stool, and that in great Quantities, by which the Patient is much weakned, and in ſome time rendred incapable of performing the conjugal Duty.</p>
+               <p>The Cure of this Diſeaſe doth re<g ref="char:EOLhyphen"/>quire much care on both ſides, for the Patient muſt be as regular, as the Surgeon muſt be carefull; firſt then let the Patient be Purged, gently with ſuch Medicines as are <pb n="67" facs="tcp:46321:38"/>cool, and leave a ſtyptick quality behind them, purge but once in three or four days at moſt. Uſe coo<g ref="char:EOLhyphen"/>ling
+<hi>Emulſions,</hi> and <hi>Balſamick Tiſans,</hi> Stiptick Drops in Water is proper, or <hi>Water</hi> and <hi>Claret</hi> for common Drink: Gliſters of Decoctions of the cold Seeds are good, be ſure to avoid all forts of Exerciſe, and all manner of Diet that may inflame; be very moderate in the uſe of <hi>Ve<g ref="char:EOLhyphen"/>nery,</hi> but do not forbear altogether, uſe
+<hi>Balſamick Injections,</hi> but let not them be injected with too much force, leaſt they hurt the parts already too tender. Avoid all ſharp Injections, leaſt they hurt the <hi>
+                     <g ref="char:V">Ʋ</g>rethra,</hi> and de<g ref="char:EOLhyphen"/>ſtroy the
+<hi>Tone</hi> of the Part; take Bloud from the Arm to make Re<g ref="char:EOLhyphen"/>vulſion. Bathe the Patient once in two days, but let him not Sweat, and pray obſerve, that you uſe no Medicines of <hi>Tereb:</hi> For all ſuch muſt be avoided, for they do more <pb n="68" facs="tcp:46321:38"/>Dilate than Contract, and therefore your
+<hi>Balſamicks</hi> muſt be framed af<g ref="char:EOLhyphen"/>ter another manner;
+<hi>Hypnoticks</hi> may be uſed once in two Nights, for they allay ſharp Humours, and de<g ref="char:EOLhyphen"/>ſtroy <hi>Acids,</hi> and prevent Inflama<g ref="char:EOLhyphen"/>tion; let the Patient be carefull to prevent taking Cold, which ma<g ref="char:EOLhyphen"/>ny times cauſes a Defluxion of Hu<g ref="char:EOLhyphen"/>mours upon the <hi>Glandules,</hi> and Neck of the Bladder with retention of Urine, but if by accident ſuch a caſe ſhould happen, take heed of medling with <hi>Catheter</hi> or <hi>Candle,</hi> the latter of which, had like to have deſtroyed a Friend of mine, a Noble <hi>Spaniard,</hi> who being afflicted with this Diſtemper, and his Urine ſome<g ref="char:EOLhyphen"/>what ſuppreſſed, he made uſe of a <hi>Candle,</hi> which he put up to the Root of the Yard, and wounding the <hi>Glan<g ref="char:EOLhyphen"/>dules</hi> cauſes Inflamation, and from thence a Total ſuppreſſion of Urine followed, which indangered his Life, <pb n="69" facs="tcp:46321:39"/>for, he made not one drop of Urine in ten days, notwithſtanding I uſed all proper means, having likewiſe the Aſſiſtance of a Learned Phyſiti<g ref="char:EOLhyphen"/>an. At laſt, upon the taking a Doſe of the <hi>Calom:</hi> in a proper <hi>Vehicle,</hi> his Urine came away with great quantities of <hi>Sordes,</hi> and was followed by a Sanious Matter flow<g ref="char:EOLhyphen"/>ing from the <hi>
+                     <g ref="char:V">Ʋ</g>lcer,</hi> occaſioned by wounding the Part; therefore I ſay, all care imaginable muſt be taken in the Treating of this Diſtemper, leaſt your Remedy prove worſe than the Diſeaſe.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="70" facs="tcp:46321:39"/>
+               <head>
+                  <hi>CHAP. IX.</hi> The CONCL<g ref="char:V">Ʋ</g>SION.</head>
+               <p>I Am now arrived at Forty years of Age, and muſt therefore know 'tis impoſſible to pleaſe all Men, my little Book will be Read by people of all ſorts, and I muſt indure the Snarling of Knaves and Fools, who neither will, nor can, do the like to advance the common Good, and Fops will find fault, with what they cannot mend. I have known far greater Authors than my ſelf Cenſured, and that by ſuch indiſ<g ref="char:EOLhyphen"/>cerning Wherebes, who could not diſt guiſh, between the Beauty or De<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, of a Work, ſome perhaps may blame me, for too much expo<g ref="char:EOLhyphen"/>ſing
+<pb n="71" facs="tcp:46321:40"/>the Noble Art of <hi>Chyrurgery,</hi> others I am ſure, will think me too Obſtruce, but none I hope will blame my Integrity, in endeavouring to deliver Mankind, from ſo vaſt a Labyrinth of Miſery, as is too often known, to proceed from the Sub<g ref="char:EOLhyphen"/>ject here treated of Calumnious Tongues will cenſure the beſt Works, but ingenious perſons will always applaude, what ever may be inſtru<g ref="char:EOLhyphen"/>mental for publick Good, and thoſe that herein find ſomething uſefull, either to their Selves or their Friends will commend it.</p>
+               <q>
+                  <p>Scinditur incertum ſtudia in contra<g ref="char:EOLhyphen"/>ria vulgus.</p>
+                  <bibl>Virg. AEneid. lib. &amp;c.</bibl>
+               </q>
+               <p>Some people perhaps may be diſ<g ref="char:EOLhyphen"/>pleaſed, that I have not been more particular, in ſetting down the Re<g ref="char:EOLhyphen"/>ceipts of my Medicines, that they might know my <hi>Diet-Drinks, Ti<g ref="char:EOLhyphen"/>ſans, <pb n="72" facs="tcp:46321:40"/>Emulſions, &amp;c.</hi> which indeed muſt be varied, according to the Caſe or Conſtitution of the Patient, for I do not uſe to let one Pot of my
+<hi>Di<g ref="char:EOLhyphen"/>et-Drink</hi> ſerve all Patients. (as ſome <hi>I</hi> know do,) but
+<hi>I</hi> prepare ſuch as reaſon directs. Indeed, for my
+<hi>An<g ref="char:EOLhyphen"/>tivenereal-Pill, I</hi> muſt needs ſay, <hi>I</hi> order all Venereal Patients to be Purged, (where Purging is required) by that only, and that for many rea<g ref="char:EOLhyphen"/>ſons; for Firſt, there is no <hi>Pill</hi> yet known, that works ſo effectually, and that in ſo ſmall a Doſe, for fif<g ref="char:EOLhyphen"/>teen Grains which is three ſmall <hi>Pills,</hi> is a ſufficent Purge for moſt Men, and above a Scruple <hi>I</hi> give not to any Man. Moreover 'tis obſer<g ref="char:EOLhyphen"/>vable, that my <hi>Antivenereal-Pill;</hi> doth not debilitate as moſt other Purgatives do, nor doth it Nauſeate the Stomack, (like moſt
+<hi>Clap</hi> Phy<g ref="char:EOLhyphen"/>ſick,) but ſtrengthens it, and pre<g ref="char:EOLhyphen"/>ſerves the Appetire, cauſing no un<g ref="char:EOLhyphen"/>ſavory <pb n="73" facs="tcp:46321:41"/>Belches, and if ever <hi>Cito, tuto, &amp; jucunde,</hi> were applicable to any Me<g ref="char:EOLhyphen"/>dicine, it muſt be to this, and now that <hi>I</hi> may not amuſe my Reader, who cannot otherwiſe imagine, but that this <hi>Pill</hi> muſt be ſome <hi>Panacea,</hi> of three pounds and ten ſhillings a Doſe, <hi>I</hi> will plainly tell him, that <hi>I</hi> now mean my common <hi>Yellow-Pill,</hi> that <hi>I</hi> have this twenty years Sold for four ſhillings a Box, which con<g ref="char:EOLhyphen"/>tains thirty
+<hi>Pills,</hi> and which many have admired, but none ever equal<g ref="char:EOLhyphen"/>led, and why
+<hi>I</hi> have ſo Sold it, <hi>I</hi> will freely declare, it has always been known that too many poor R—and W — will be getting of
+<hi>Claps,</hi> before they have Money to pay the Surgeon, (although <hi>I</hi> have often told them, that ſuch Diſtempers are fit only for the better ſort,) and many poor Wretches have been loſt for want of Cure, for what can ſuch Perſons do, in ſuch a Caſe? It's <pb n="74" facs="tcp:46321:41"/>worth no Man's time to pretend to any other Cure, than what may be managed by the poor Patients own Care: And if ſuch a Medicine be not to be had, that the meaner ſort may purchaſe, what miſerable Objects ſhould we every where meet. To tell a poor Labouring Man of Drink<g ref="char:EOLhyphen"/>ing <hi>Tiſans,</hi> and
+<hi>Emulſions,</hi> or taking <hi>Aperitive Salts, Balſamick Gliſters, &amp;c.</hi> would be only to tantalize him, or what ſhall many a poor Patient do, (if the <hi>Pill</hi> were not effectual,) whoſe Circumſtances are ſo conſining, that he cannot have the conveniency of all things requiſite, without rendering him liable to a diſcovery, which Ac<g ref="char:EOLhyphen"/>cident may appear as terrible to him, as the <hi>Pox</hi> it ſelf, and whoſe Reputa<g ref="char:EOLhyphen"/>tion may be utterly deſtroyed by his unhappy, and perhaps never before perpetrated Crime, 'tis therefore ab<g ref="char:EOLhyphen"/>ſolutely neceſſary, that ſome extraor<g ref="char:EOLhyphen"/>dinary Medicine may be afforded at <pb n="75" facs="tcp:46321:42"/>a reaſonable Rate, and that ſuch a Me<g ref="char:EOLhyphen"/>dicine is not to be found among com<g ref="char:EOLhyphen"/>mon Pretenders, is natural enough to believe; but let no Man imagine that <hi>I</hi> pretend to Cure <hi>Claps</hi> for the price of any <hi>Pills,</hi> or yet think me ſo un<g ref="char:EOLhyphen"/>charitable as to deny my advice to the Poor.</p>
+               <p>Moreover, many poor Sinners that have lain under the Torment of Doubt, have received no ſmall com<g ref="char:EOLhyphen"/>fort from the aſſiſtance of this one particular Medicine, for many times exceſs in <hi>Venery,</hi> joyned with the Debauch of Wine, begets ſo great an Acrimony in the Urine, and the Guilt ſo far poſſeſſing the mind, the poor Devil loofes it's little Senſes, till by taking three or four Doſes of the
+<hi>Antivenereal-Pills,</hi> and no <hi>Clap</hi> appearing, it becomes as joy<g ref="char:EOLhyphen"/>full as penitent. But now to return to the matter of my Book, they which
+<pb n="76" facs="tcp:46321:42"/>know me will wonder <hi>I</hi> have not commended that all this while.</p>
+               <p>('Tis a great fault <hi>I</hi> have, in be<g ref="char:EOLhyphen"/>ing oftimes too paſſionate, in com<g ref="char:EOLhyphen"/>mending my <hi>Horſe,</hi> my <hi>Dog,</hi> my
+<hi>Servant, &amp;c.</hi>) And indeed, 'tis hard for me to forbear it, for
+<hi>I</hi> am ſure the ſubſtance of my Book is new, though the Diſeaſe be old, <hi>I</hi> have borrowed from no man, <hi>I</hi> have ſtoln from no Authour, <hi>I</hi> have Writ nothing but what <hi>I</hi> have ſeen, and often experi<g ref="char:EOLhyphen"/>mented, and that in this Town, there is not a word in it, but what thoſe that know me, have at one time or other heard from me, upon occaſion in Diſ<g ref="char:EOLhyphen"/>courſe, or in Conſultations with Phy<g ref="char:EOLhyphen"/>ſitians, and <hi>I</hi> hope <hi>I</hi> may without Va<g ref="char:EOLhyphen"/>nity ſay, that he which takes the pains to Read it, will find ſomething in it, either like his own, or ſome Friends caſe, and that it will not be altoge<g ref="char:EOLhyphen"/>ther his labour loſt.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46321:43"/>
+            <pb facs="tcp:46321:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
